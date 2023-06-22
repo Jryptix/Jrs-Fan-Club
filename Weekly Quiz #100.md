@@ -196,11 +196,11 @@ Always make sure ONE word per user, as well as EVERY sentence make sense.
 Of course 2 people in a voice channel means it is private. Private & Private Streaming are both private channels.
 
 ### 22. How do you get notifications for Jr's development?
-✅ jr!adduploads
+✅ jr!adddevelopments
+
+❌ jr!adduploads
 
 ❌ jr!addpostnews
-
-❌ jr!adddevelopments
 
 jr!adddevelopments is command used to receive notifications and be pinged for Jr's development.
 
