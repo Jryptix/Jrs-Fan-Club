@@ -12,7 +12,7 @@ As said, there are commands that help moderate and manage this server. Make sure
 ## Moderation 🛠️
   
 ### `jr!modnick`
-This command will moderate out someone's username if it is impossible to ping them if they have non-QWERTY keyboard characters or if inappropriate.
+This command will moderate out someone's display name/nickname if it is disturbing in chat.
   
 > _Usage:_
 > ```
