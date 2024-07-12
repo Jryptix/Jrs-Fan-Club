@@ -26,6 +26,22 @@ This command will warn the mentioned user with the reason argument you must prov
 > ```
 > jr!warn @<user> <reason>
 > ```
+
+### `jr!timeout`
+This command will timeout the mentioned user for a given number in minutes with the reason argument you must provide when doing so and vice versa.
+  
+> _Usage:_
+> ```
+> jr!timeout <number in minutes> @<user> <reason>
+> ```
+
+### `jr!untimeout`
+This command will untimeout the mentioned user.
+  
+> _Usage:_
+> ```
+> jr!untimeout @<user>
+> ```
   
 ### `jr!kick`
 This command will kick the mentioned user with the reason argument you must provide when doing so and vice versa.
