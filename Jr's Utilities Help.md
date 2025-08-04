@@ -125,7 +125,7 @@ This command will return how many warnings a user has if you mention them option
 > ```
 > 
 
-### `jr!getwqpoints`
+### `jr!getwqpoint`
 This command will return how many weekly quiz points you have, essentially how many correct weekly quizzes you answered in weekly-quiz.
 
 > _Usage:_
