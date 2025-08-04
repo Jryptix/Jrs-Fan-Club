@@ -123,6 +123,18 @@ This command will return how many warnings a user has if you mention them option
 > ```
 > jr!checkwarnings [user]
 > ```
+> 
+
+### `jr!getwqpoints`
+This command will return how many weekly quiz points you have, essentially how many correct weekly quizzes you answered in weekly-quiz.
+
+> _Usage:_
+> ```
+> jr!getwqpoints [user]
+> ```
+
+### `jr!wqlb`
+This command will return the top 10 users with the most weekly quiz points, i.e. how many correct weekly quizzes they answered in weekly-quiz.
 
 ## Economy 💸
   
