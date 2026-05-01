@@ -3,7 +3,9 @@ The recent updates near the top of this list are logged as most recent, where as
 
 ## V1.4.4 - 2nd May 2026:
 - Smaller changes:
-  - `jr!updatelogs` is migrated into this GitHub page, which expands the list of updates!
+  - `jr!updatelogs` is migrated into this GitHub page, which expands the list of updates, with additional changes:
+    - Bot versions is implemented
+    - Version is seen in the Jr's Utilities bot's about me
   - Fixed thumbnail so it shows the updated server icon
 ## V1.4.3 - 21st Sep 2025:
 - Smaller changes:
