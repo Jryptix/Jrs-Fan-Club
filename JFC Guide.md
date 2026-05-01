@@ -1,4 +1,4 @@
-Welcome to the world of gaming where most content will be on Roblox or any other games you suggest. Here is a guide for any beginners or wanderers if you want to know how anything works in this server.
+Welcome to the world of Jr's community where most content will be on Obby Creator FE2(CM)/TRIA.os related content or any other games you suggest. Here is a guide for any beginners or wanderers if you want to know how anything works in this server.
 
 # **Suggesting / Reporting**
 - To suggest something on the server, use the forum post located in `➣ Community Forums` called `#suggestions`. You can create a post by adding a new post. Follow the channel rules there. You can also apply tags to your post to signify what it's for.
