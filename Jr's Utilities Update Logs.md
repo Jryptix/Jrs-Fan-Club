@@ -1,17 +1,17 @@
 # Here are the most recent bot updates for Jr's Utilities:
 The recent updates near the top of this list are logged as most recent, where as ones near the bottom are the oldest.
 
-## 2nd May 2026:
-- V1.8 - Smaller changes:
+## V1.4.4 - 2nd May 2026:
+- Smaller changes:
   - `jr!updatelogs` is migrated into this GitHub page, which expands the list of updates!
   - Fixed thumbnail so it shows the updated server icon
-## V1.7 - 21st Sep 2025:
+## V1.4.3 - 21st Sep 2025:
 - Smaller changes:
   - Revamped profile icon and banner to match with the YouTube channel and Discord server themes
-## V1.6 - 3rd Aug 2025:
+## V1.4.2 - 3rd Aug 2025:
 - Smaller changes:
   - Added `jr!getwqpoint (optional user)` & `jr!wqlb`
-## V1.5 - 18 Apr 2023:
+## V1.4.1 - 18 Apr 2023:
 - Smaller changes:
   - Changed the link to the `jr!help` menu which now directs to GitHub.
 ## V1.4 - 3 Feb 2023:
