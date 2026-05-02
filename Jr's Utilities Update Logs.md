@@ -6,7 +6,7 @@ The recent updates near the top of this list are logged as most recent, where as
   - `jr!updatelogs` is migrated into this GitHub page, which expands the list of updates, with additional changes:
     - Bot versions is implemented
     - Version is seen in the Jr's Utilities bot's about me
-  - Fixed thumbnail so it shows the updated server icon
+  - Fixed thumbnail so it shows the updated server icon in `jr!membercount` & `jr!updatelogs`
 ## V1.4.3 - 21st Sep 2025:
 - Smaller changes:
   - Revamped profile icon and banner to match with the YouTube channel and Discord server themes
